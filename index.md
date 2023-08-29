@@ -1,8 +1,13 @@
 ---
-title: Accueil
+title: "Construire un mode de vie solidaire et respectueux de l’environnement à Clamart"
 order: 0
 ---
+# Les petits pois sont verts à Clamart
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Nous sommes une association éco-solidaire créée en janvier 2020. 
+Notre but ? 
+Imaginer et construire un mode de vie respectueux
+de l'environnement et solidaire en :
+- reliant les clamartois partageant les mêmes motivations,
+- encourager une dynamique locale,
+- porter des projets et diffuser des informations. 
